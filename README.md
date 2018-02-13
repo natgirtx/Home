@@ -83,15 +83,16 @@ June 1999 – Aug. 1999	Les Habitations B.G.P., Web Developer
 
 ## EDUCATION
 
-1997 – 2000	B. Sc., Computer Science, [Université du Québec à Hull](https://uqo.ca/)
-1994 – 1996	Master in social services, [Ottawa University](http://www.uottawa.ca/en)
-1991 – 1994	B. social work (B.S.W.), [Université du Québec à Hull](https://uqo.ca/)
+ - 1997 – 2000	B. Sc., Computer Science, [Université du Québec à Hull](https://uqo.ca/)
+ - 1994 – 1996	Master in social services, [Ottawa University](http://www.uottawa.ca/en)
+ - 1991 – 1994	B. social work (B.S.W.), [Université du Québec à Hull](https://uqo.ca/)
 
 ## CONTINUOUS EDUCATION / CERTIFICATIONS
 
-2017	Effective Written Communication, [Université du Québec](https://uqo.ca/)
-2017	Electronic Health Records, [Collin College](http://www.collin.edu/)
-2017	Basic Life Support Certification AHA, [Collin College](http://www.collin.edu/)
+ - 2017	Effective Written Communication, [Université du Québec](https://uqo.ca/)
+ - 2017	Electronic Health Records, [Collin College](http://www.collin.edu/)
+ - 2017	Basic Life Support Certification AHA, [Collin College](http://www.collin.edu/)
+
 
 ## ACTIVITIES AND INTERESTS
 

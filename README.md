@@ -1,2 +1,2 @@
 # Home
-*This is my home project
+* This is my home project
